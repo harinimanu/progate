@@ -1,0 +1,31 @@
+header {
+    background-color: brown;
+    text-align: center;
+    height: 20px;
+}
+
+h1 {
+    background-color: blue;
+    height: 100px;
+    text-align: center;
+}
+
+footer {
+    text-align: center;
+    background-color: rgb(186, 189, 35);
+    color: rgb(9, 27, 27);
+    height: 50px;
+    font-size: medium;
+
+
+section {
+    height: 350px;
+    width: 500px;
+
+    background-image: url(images\car.jpeg);
+}
+
+article {
+    background-color: rgb(29, 68, 102);
+    color: rgb(226, 46, 14);
+}
